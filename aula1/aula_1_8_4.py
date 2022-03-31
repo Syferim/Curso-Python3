@@ -8,3 +8,6 @@ if começa_com_j:
     print('Existe uma palavra que começa com J')
 else:
     print('Não existe uma palavra que começa com J')
+
+
+
