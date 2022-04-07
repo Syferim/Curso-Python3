@@ -3,7 +3,7 @@ def divide (n1, n2):
         return n1 / n2
     except ZeroDivisionError as error:
         print(error)
-        return False
+        raise
 
 try:
     print(divide(2,0))
